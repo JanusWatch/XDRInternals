@@ -1,4 +1,4 @@
-﻿function Get-XdrConfigurationAlertEmailNotification {
+﻿function Get-XdrEndpointConfigurationAlertEmailNotification {
     <#
     .SYNOPSIS
         Retrieves alert email notification rules from Microsoft Defender XDR.
