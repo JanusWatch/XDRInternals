@@ -189,7 +189,17 @@
         "Stop-XdrEndpointDeviceAction",
         "Update-XdrConnectionSettings",
 
+        # Additional Endpoint Functionality
         "Get-XdrEndpointConfigurationAlertEmailNotification",
+        "Get-XdrEndpointConfigurationLicenses",
+        "Get-XdrEndpointConfigurationWebContentFiltering",
+        "Get-XdrEndpointConfigurationAutomationUploads",
+        "Get-XdrEndpointConfigurationAutomationFolderExtension",
+        "Get-XdrEndpointConfigurationProcessMemoryIndicators",
+        "Get-XdrEndpointConfigurationEnforcementScope",
+        "Get-XdrEndpointConfigurationIntunePermissions"
+
+        # Snapshot helper
         "ConvertTo-XdrSnapshot"
     )
 
