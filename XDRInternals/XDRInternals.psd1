@@ -199,6 +199,13 @@
         "Get-XdrEndpointConfigurationEnforcementScope",
         "Get-XdrEndpointConfigurationIntunePermissions"
 
+        # Additional Identity Functionality
+        "Get-XdrIdentityConfigurationAbout",
+        "Get-XdrIdentityConfigurationActivation",
+        "Get-XdrIdentityConfigurationHealthIssueNotifications",
+        "Get-XdrIdentityConfigurationSyslogNotifications",
+        "Get-XdrIdentityConfigurationVPN",
+
         # Snapshot helper
         "ConvertTo-XdrSnapshot"
     )
